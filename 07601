@@ -1,0 +1,9 @@
+dd if=07601_in.png bs=1 skip=9584 of=out.zip
+unzip out.zip
+cd Secret\ Stuff.../
+cd Don\'t\ Open\ This.../
+strings 07601_out.jpeg
+
+############################################################
+#                   ABCTF{Du$t1nS_D0jo}1r                  #
+############################################################
