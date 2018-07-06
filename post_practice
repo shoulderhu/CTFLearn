@@ -1,0 +1,5 @@
+curl -d "username=admin&password=71urlkufpsdnlkadsf" https://ctflearn.com/post.php
+
+############################################################
+#                   flag{p0st_d4t4_4ll_d4y}                #
+############################################################
